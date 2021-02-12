@@ -1,0 +1,25 @@
+{
+  "name": "tenantapp-helper-functions",
+  "version": "1.0.0",
+  "description": "Create global functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweolumidedavid/helper-functions.git"
+  },
+  "keywords": [
+    "npm",
+    "functions",
+    "tenant",
+    "app"
+  ],
+  "author": "Awe Olumide David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweolumidedavid/helper-functions/issues"
+  },
+  "homepage": "https://github.com/aweolumidedavid/helper-functions#readme"
+}
